@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(245, 165, 215);
+    color: rgb(75, 15, 50);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.title{
+    font-size: 50px;
+}
+
+.recipe-list{
+    list-style-type: none;
+    font-size: 40px;
+    text-align: center;
+}
+
+h1{
+    font-weight: 500;
+}
+
+h2{
+    font-weight: 100;
+}
+
+ul, ol, .description{
+    text-align: left;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
